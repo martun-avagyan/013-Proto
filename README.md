@@ -9,7 +9,7 @@
    > - goToPage
    > - getPageItems
 
-```
+```js
 const alphabetArray = "abcdefghijklmnopqrstuvwxyz".split("");
 Pagination.init(alphabetArray, 4);
 Pagination.getPageItems(); // ["a", "b", "c", "d"]
