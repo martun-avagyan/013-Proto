@@ -23,6 +23,5 @@ Pagination.goToPage(3); // current page must be set to 3
 
 1. Write an Airplane object that initializes name.
 2. Give airplanes the ability to .takeOff() and .land():
-
-- If a plane takes off, its isFlying property is set to true.
-- If a plane lands, its isFlying property is set to false.
+   - If a plane takes off, its isFlying property is set to true.
+   - If a plane lands, its isFlying property is set to false.
